@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 {
-    'name': "res_partner_birth",
+    'name': "res_birth",
 
     'summary': """
         Modulo Cumpleaños""",
